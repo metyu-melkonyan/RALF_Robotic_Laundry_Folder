@@ -17,7 +17,6 @@ RALF (Robotic Autonomous Laundry Folder) is a project designed to explore AI and
 - `PandaGym`
 - `rl-baselines3-zoo`
 
-Install dependencies:
 ## Installation
 Clone this repository and install the dependencies:
 ```bash
