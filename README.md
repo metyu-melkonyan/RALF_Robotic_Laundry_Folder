@@ -18,5 +18,18 @@ RALF (Robotic Autonomous Laundry Folder) is a project designed to explore AI and
 - `rl-baselines3-zoo`
 
 Install dependencies:
+## Installation
+Clone this repository and install the dependencies:
 ```bash
+git clone https://github.com/yourusername/RALF_Robotic_Laundry_Folder.git
+cd RALF_Robotic_Laundry_Folder
 pip install -r requirements.txt
+
+## References:
+- [RL Baselines3 Zoo](https://github.com/rl-baselines3-zoo)
+- [Stable Baselines3](https://github.com/DLR-RM/stable-baselines3)
+- [SB3 Contrib](https://github.com/Stable-Baselines3-contrib)
+- [Panda Gym Environments Paper](https://arxiv.org/abs/2004.07474)
+
+For more detailed information, please refer to the [tqc-PandaReach-v1 model page](https://example.com).
+
